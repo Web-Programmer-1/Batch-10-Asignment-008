@@ -9,7 +9,7 @@ import  { Toaster } from 'react-hot-toast';
 const MainLayout = () => {
     return (
         <div className='w-5/6 mx-auto'>
-            <Toaster></Toaster>
+            <Toaster></Toaster>,
             <div className=' mt-9'>
             <Navbar></Navbar>
          

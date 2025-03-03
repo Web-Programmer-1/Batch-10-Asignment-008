@@ -10,7 +10,7 @@ const ProductDetails = () => {
   const {id} = useParams() ; 
   const data = useLoaderData() ;
 
-
+// productDetails
 
   const product = data.find( product => product.product_id == id) ; 
   const wishList = data.find( product => product.product_id == id) ; 
