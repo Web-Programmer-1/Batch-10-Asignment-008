@@ -12,7 +12,7 @@ const Home = () => {
     return (
         <div>
               <HeroArea></HeroArea>
-              <div className=' mt-[500px]  pb-60'>
+              <div className=' mt-[500px]  pb-60'>;
                  <h2 className='text-center text-2xl font-bold'>Explore Cutting-Edge Gadgets</h2>
                   <div className='flex  mt-10'>
                   <Categories categories={categories}></Categories>
