@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import HeroArea from '../componets/HeroArea';
-import CardsContainer from '../componets/CardsContainer';
+
 import Categories from '../componets/categories';
 import { Outlet, useLoaderData } from 'react-router-dom';
 
@@ -17,7 +17,7 @@ const Home = () => {
                   <div className='flex  mt-10'>
                   <Categories categories={categories}></Categories>
                   <Outlet></Outlet>
-                  {/* <CardsContainer></CardsContainer> */}
+                  {/* <CardsConta></CardsConta> */}
                   </div>
               </div>
         </div>
