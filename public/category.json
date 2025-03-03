@@ -1,0 +1,33 @@
+[
+   
+    {
+        "id": 2,
+        "category": "Laptops",
+        "slug": "wellness-tips"
+    },
+    {
+        "id": 3,
+        "category": "Phones",
+        "slug": "exploring-europe"
+    },
+    {
+        "id": 4,
+        "category": "Accessories",
+        "slug": "easy-recipes"
+    },
+    {
+        "id": 5,
+        "category": "Smart Watches",
+        "slug": "investment-strategies"
+    },
+    {
+        "id": 6,
+        "category": "MacBook",
+        "slug": "minimalist-living"
+    },
+    {
+        "id": 7,
+        "category": "Iphone",
+        "slug": "online-learning-resources"
+    }
+]

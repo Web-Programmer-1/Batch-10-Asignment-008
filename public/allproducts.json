@@ -1,0 +1,189 @@
+[
+  {
+    "product_id": "LAP001",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.imghippo.com/files/SlR5510D.webp",
+    "category": "Laptops", 
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with a powerful GPU and fast refresh rate.",
+    "specification": [
+      "Intel i9 Processor",
+      "32 GB RAM",
+      "1 TB SSD",
+      "NVIDIA RTX 3080 GPU",
+      "144Hz refresh rate"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "LAP002",
+    "product_title": "MacBook Pro 16",
+    "product_image": "https://i.imghippo.com/files/Dljj4731Mg.jpg",
+    "category": "Laptops",
+    "price": 2399.99,
+    "description": "Apple MacBook Pro with Retina display and M1 chip for superior performance.",
+    "specification": [
+      "Apple M1 Pro Processor",
+      "32 GB RAM",
+      "2 TB SSD",
+      "Retina display",
+      "Up to 20 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "LAP003",
+    "product_title": "MacBook Pro",
+    "product_image": "https://i.imghippo.com/files/euFu5742Is.jpg",
+    "category": "MacBook",
+    "price": 2359.99,
+    "description": "Apple MacBook Pro with Retina display and M1 chip for superior performance.",
+    "specification": [
+      "Apple M2 Processor",
+      "16 GB RAM",
+      "1 TB SSD",
+      "Retina display",
+      "Up to 17 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "PHN001",
+    "product_title": "Smartphone X",
+    "product_image": "https://i.imghippo.com/files/RYd9400Yu.jpg",
+    "category": "Phones",
+    "price": 799.99,
+    "description": "Latest smartphone with a stunning camera and powerful processor.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "PHN002",
+    "product_title": "Smartphone Z",
+    "product_image": "https://i.imghippo.com/files/EOKA7959SU.webp",
+    "category": "Phones",
+    "price": 599.99,
+    "description": "Affordable smartphone with excellent features for everyday use.",
+    "specification": [
+      "6.5-inch Full HD+ display",
+      "Snapdragon 720G",
+      "Dual-camera system",
+      "5000mAh battery",
+      "Up to 128GB storage"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "PHN003",
+    "product_title": "Smartphone Z",
+    "product_image": "https://i.imghippo.com/files/LfR9741jI.jpg",
+    "category": "Phones",
+    "price": 599.99,
+    "description": "Affordable smartphone with excellent features for everyday use.",
+    "specification": [
+      "6.5-inch Full HD+ display",
+      "Snapdragon 720G",
+      "Dual-camera system",
+      "5000mAh battery",
+      "Up to 128GB storage"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "SW001",
+    "product_title": "Smartwatch Series 6",
+    "product_image": "https://i.imghippo.com/files/etdr2880CJk.jpg",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "Feature-rich smartwatch with health tracking and customizable watch faces.",
+    "specification": [
+      "18 hours of battery life",
+      "50 meters water resistance",
+      "Heart rate monitor",
+      "Blood oxygen sensor",
+      "Customizable watch faces"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW002",
+    "product_title": "Fitness Tracker Pro",
+    "product_image": "https://i.imghippo.com/files/Maz1840TrY.png",
+    "category": "Smart Watches",
+    "price": 99.99,
+    "description": "Compact fitness tracker with heart rate monitoring and activity tracking.",
+    "specification": [
+      "7 days of battery life",
+      "30 meters water resistance",
+      "Sleep tracking",
+      "Step count",
+      "Heart rate monitor"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "ACC001",
+    "product_title": "Wireless Mouse",
+    "product_image": "https://i.imghippo.com/files/HFyE8763dQ.jpg",
+    "category": "Accessories",
+    "price": 466.99,
+    "description": "Ergonomic wireless mouse with customizable buttons.",
+    "specification": [
+      "18 months battery life",
+      "USB receiver connectivity",
+      "100 grams weight",
+      "Customizable buttons",
+      "Wireless range of up to 10 meters"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "ACC002",
+    "product_title": "Laptop Sleeve",
+    "product_image": "https://i.imghippo.com/files/wUE8255qQY.jpg",
+    "category": "Accessories",
+    "price": 299.99,
+    "description": "Stylish and protective sleeve for laptops up to 15 inches.",
+    "specification": [
+      "Neoprene material",
+      "Dimensions: 15 x 10 inches",
+      "Front pocket for accessories",
+      "Zipper closure",
+      "Lightweight"
+    ],
+    "availability": true,
+    "rating": 4.4
+  } , 
+  {
+    "product_id": "ACC0002",
+    "product_title": "Laptop Sleeve",
+    "product_image": "https://i.imghippo.com/files/Dljj4731Mg.jpg",
+    "category": "Iphone",
+    "price": 100.99,
+    "description": "Stylish and protective sleeve for laptops up to 15 inches.",
+    "specification": [
+      "Neoprene material",
+      "Dimensions: 15 x 10 inches",
+      "Front pocket for accessories",
+      "Zipper closure",
+      "Lightweight"
+    ],
+    "availability": false,
+    "rating": 4.4
+  }
+]
